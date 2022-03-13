@@ -7,7 +7,7 @@ This program has been tested on Windows 10 21H2. It might not be stable for othe
 
 ## Usage
 
-Open the well-known Command Prompt (cmd.exe) and navigate to the directory where you downloaded the program.
+Open the well-known Command Prompt (cmd.exe) as Administrator and navigate to the directory where you downloaded the program.
 Then, run it from there.
 
 ```bash
