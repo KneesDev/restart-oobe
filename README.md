@@ -29,11 +29,11 @@ Open the well-known Command Prompt (cmd.exe) as Administrator and navigate to th
 Then, run it from there.
 
 ```bash
-start restart-oobe.exe
+start restart-oobe-vX.XX.exe
 ```
 
 ## Obtaining the program
 
 You can click [here](https://github.com/KneesDev/restart-oobe/releases) to download the latest version of the program.
 
-Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.00-old.exe
+Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.XX-old.exe
