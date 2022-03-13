@@ -5,7 +5,7 @@ It works just like when you run Windows for the first time.
 
 ## Compatibility
 
-There are 2 different *editions* of each version.
+There are 2 different *variants* of each version.
 
 The first one is made for Windows 8.1 or newer and the second one is made for Windows Vista and up to Windows 8.
 
@@ -22,4 +22,4 @@ start restart-oobe.exe
 
 You can click [here](https://github.com/KneesDev/restart-oobe/releases) to download the latest version of the program.
 
-Just make sure to click the right file, which is restart-oobe_vX.XX.exe
+Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.00-old.exe
