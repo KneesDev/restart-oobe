@@ -9,6 +9,15 @@ There are 2 different *variants* of each version.
 
 The first one is made for Windows 8.1 or newer and the second one is made for Windows Vista and up to Windows 8.
 
+### Summary
+
+Windows Vista - **old**
+Windows 7 - **old**
+Windows 8 - **old**
+Windows 8.1 - **new**
+Windows 10 - **new**
+Windows 11 - **new**
+
 ## Usage
 
 Open the well-known Command Prompt (cmd.exe) as Administrator and navigate to the directory where you downloaded the program.
