@@ -12,10 +12,15 @@ The first one is made for Windows 8.1 or newer and the second one is made for Wi
 ### Summary
 
 Windows Vista - **old**
+
 Windows 7 - **old**
+
 Windows 8 - **old**
+
 Windows 8.1 - **new**
+
 Windows 10 - **new**
+
 Windows 11 - **new**
 
 ## Usage
