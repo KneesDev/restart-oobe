@@ -3,7 +3,11 @@
 Experience the boring and annoying OOBE of Windows twice.
 It works just like when you run Windows for the first time.
 
-This program has been tested on Windows 10 21H2. It might not be stable for other versions of Windows.
+## Compatibility
+
+There are 2 different *editions* of each version.
+
+The first one is made for Windows 8.1 or newer and the second one is made for Windows Vista and up to Windows 8.
 
 ## Usage
 
