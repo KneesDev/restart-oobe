@@ -29,7 +29,7 @@ Open the well-known Command Prompt (cmd.exe) as Administrator and navigate to th
 Then, run it from there.
 
 ```bash
-start restart-oobe-vX.XX.exe
+start restart-oobe_vX.XX.exe
 ```
 
 ## Obtaining the program
