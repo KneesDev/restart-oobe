@@ -36,4 +36,4 @@ start restart-oobe-vX.XX.exe
 
 You can click [here](https://github.com/KneesDev/restart-oobe/releases) to download the latest version of the program.
 
-Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.XX-old.exe
+Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.XX-old.exe for older ones.
