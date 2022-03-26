@@ -5,23 +5,9 @@ It works just like when you run Windows for the first time.
 
 ## Compatibility
 
-There are 2 different *variants* of each version.
+restart-oobe supports all the versions of Windows that contain an Out-of-Box experience (OOBE).
 
-The first one is made for Windows 8.1 or newer and the second one is made for Windows Vista and up to Windows 8.
-
-### Summary
-
-Windows Vista - **old**
-
-Windows 7 - **old**
-
-Windows 8 - **old**
-
-Windows 8.1 - **new**
-
-Windows 10 - **new**
-
-Windows 11 - **new**
+Some examples are Windows 7, Windows 8.1 and Windows 10.
 
 ## Usage
 
@@ -36,4 +22,4 @@ start restart-oobe_vX.XX.exe
 
 You can click [here](https://github.com/KneesDev/restart-oobe/releases) to download the latest version of the program.
 
-Just make sure to click the right file, which is restart-oobe_vX.XX.exe for newer systems and restart-oobe_vX.XX-old.exe for older ones.
+(in 1.00, there were two variants but I merged them into one for easier usage)
