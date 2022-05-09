@@ -15,8 +15,9 @@ Open the well-known Command Prompt (cmd.exe) as Administrator and navigate to th
 Then, run it from there.
 
 ```bash
-start restart-oobe_vX.XX.exe
+start restart-oobe_v1.01.exe
 ```
+You can also double-click the executable and it will work the same.
 
 ## Obtaining the program
 
