@@ -1,7 +1,11 @@
 # restart-oobe
 
+```diff
+- This project is being no longer updated. Consider checking out my other projects.
+```
+
 Experience the boring and annoying OOBE of Windows twice.
-It works just like when you run Windows for the first time.
+It works just like when you run Windows for the first time. (psst, almost)
 
 ## Compatibility
 
